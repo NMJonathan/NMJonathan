@@ -1,280 +1,61 @@
-<h1 align="center">Hi 👋, I'm Jonathan Nevárez</h1>
-<h3 align="center">A passionate Senior Sofware Engineer from México</h3>
+<div align="center">
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=nmjonathan&label=Profile%20views&color=0e75b6&style=flat"
-    alt="nmjonathan"
-  />
-</p>
+<img src="https://github.com/NMJonathan.png" width="120" alt="Jonathan Nevárez" />
 
-<p align="left">
-  <a href="https://twitter.com/jonathannmo" target="blank">
-    <img
-      src="https://img.shields.io/twitter/follow/jonathannmo?logo=twitter&style=for-the-badge"
-      alt="jonathannmo"
-    />
-  </a>
-</p>
+# Jonathan Nevárez
 
-- 🔭 I’m currently working on **PoC DEV team at Sparq**
-- 🌱 I’m currently learning **AI/ML stuff**
-- 📫 How to reach me **<jonathannevarezm@gmail.com>**
+**Senior Software Engineer · AI & Cloud**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+Turning AI ideas into cloud-native software that works.
 
-  <a href="mailto:jonathannevarezm@gmail.com" target="blank">
-    <img
-      align="center"
-      src="https://workspace.google.com/lp/static/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97"
-      alt="jonathannevarezm@gmail.com"
-      height="35"
-      width="40"
-    />
-  </a>
-  <a href="https://twitter.com/jonathannmo" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="jonathannmo"
-      height="30"
-      width="40"
-    />
-  </a>
-  <a href="https://linkedin.com/in/jonathannevarez" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="jonathannevarez"
-      height="30"
-      width="40"
-    />
-  </a>
-  <a href="https://www.hackerrank.com/jonathannevarezm" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="jonathannevarezm"
-      height="30"
-      width="40"
-    />
-  </a>
-  <a href="https://www.leetcode.com/jonathannevarez" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="jonathannevarez"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-2256e0?style=flat-square&logo=githubpages&logoColor=white)](https://nmjonathan.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2256e0?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathannevarez)
+[![X](https://img.shields.io/badge/X-2256e0?style=flat-square&logo=x&logoColor=white)](https://twitter.com/jonathannmo)
+[![Email](https://img.shields.io/badge/Email-2256e0?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathannevarezm@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2256e0?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/jonathannevarez)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2256e0?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jonathannevarezm)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://angular.io/assets/images/logos/angular/angular.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-      alt="dotnet"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg"
-      alt="flask"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"
-      alt="fastapi"
-      width="100"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://quart.palletsprojects.com/en/latest/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://quart.palletsprojects.com/en/latest/_images/logo.png"
-      alt="quart"
-      width="110"
-      height="40"
-    />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
-      alt="kotlin"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-      alt="kubernetes"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.microsoft.com/en-us/sql-server"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      alt="mssql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-      alt="opencv"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://dotnet.microsoft.com/apps/xamarin"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
-      alt="xamarin"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+</div>
 
 ---
 
-<h3 align="center">Support:</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/jonathannm">
-    <img
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      height="50"
-      width="210"
-      alt="jonathannm"
-    />
-  </a>
-</p>
+## About
+
+I'm a software engineer from México with **12+ years** of end-to-end experience. I validate AI concepts fast, build LLM-powered solutions, and scale them on cloud infrastructure — combining full-stack instincts with cloud engineering discipline.
+
+- 💼 **Senior Consultant, AI & Cloud** — building enterprise proofs of concept with Python, Google Cloud and GKE
+- 🤖 **Focus:** Generative AI, LLM applications, cloud-native architecture
+- 🎓 **Claude Certified Developer** · B.S. Informatics Engineering
+- 🌎 Fluent in English and Spanish · Open to senior roles & AI projects
+
+## Tech Stack
+
+| Area | Tools |
+| --- | --- |
+| **AI & ML** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative_AI-0f172a?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Cloud & DevOps** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Backend & APIs** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Quart](https://img.shields.io/badge/Quart-0f172a?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square) |
+| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square) |
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nmjonathan&theme=github_dark" alt="GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nmjonathan&theme=github_dark" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=nmjonathan&hide_border=true&background=0b0f17&ring=7aa2ff&fire=7aa2ff&currStreakLabel=7aa2ff&sideLabels=e7ebf3&currStreakNum=e7ebf3&sideNums=e7ebf3&dates=9ba6b9&stroke=232c3d" alt="GitHub streak" />
+
+</div>
 
 ---
 
-<h3 align="center">GitHub Stats:</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nmjonathan&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="nmjonathan's Stats" style="width:50%; height:auto;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nmjonathan&theme=dark&hide_border=false" alt="nmjonathan's Streak" style="width:50%; height:auto;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmjonathan&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="nmjonathan's Top Languages" style="width:50%; height:auto;">
-</p>
+**Have a role or project in mind?** [Let's talk](mailto:jonathannevarezm@gmail.com) · [View portfolio](https://nmjonathan.github.io/)
+
+<a href="https://www.buymeacoffee.com/jonathannm"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
+
+</div>
